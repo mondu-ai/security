@@ -10,7 +10,7 @@ This policy applies to external security researchers and ethical hackers reporti
 
 ## 3. Reporting a Vulnerability
 
-Vulnerabilities should be reported through [GitHub Security Advisories](https://github.com/mondu-ai/security/security/advisories/new), which ensures reports are handled privately and securely. As a backup, if GitHub is unavailable, reports may be sent to **security@mondu.ai**.
+Vulnerabilities should be reported through [GitHub Security Advisories](https://github.com/mondu-ai/security/security/advisories/new), which ensures reports are handled privately and securely. As a backup, if GitHub is unavailable, reports may be sent to security@mondu.ai.
 
 Reports should include:
 
@@ -51,8 +51,8 @@ The following activities are not covered by this policy:
 
 ## 7. Response Commitments
 
-- **Acknowledgement** within 3 business days of the report
-- **Triage and initial assessment** within 7 business days
+- Acknowledgement within 3 business days of the report
+- Triage and initial assessment within 7 business days
 - Transparent communication throughout the remediation process
 - Public acknowledgement for valid reports, unless the reporter prefers to remain anonymous
 
