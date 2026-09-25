@@ -56,6 +56,12 @@ The following activities are not covered by this policy:
 - Transparent communication throughout the remediation process
 - Public acknowledgement for valid reports, unless the reporter prefers to remain anonymous
 
-## 8. Safe Harbor
+## 8. Recognition and Rewards
+
+Mondu does not operate a bug bounty program and does not offer monetary compensation, rewards, or swag for reported vulnerabilities.
+
+Valid reports are recognised through public acknowledgement in [THANKS.md](THANKS.md), with the reporter's consent and unless they prefer to remain anonymous.
+
+## 9. Safe Harbor
 
 Security research conducted in good faith and in accordance with this policy will be considered authorized. Mondu will not pursue legal action against researchers who comply with these guidelines.
